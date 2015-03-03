@@ -23,7 +23,7 @@
 /* VERSION command result */
 #define GAHP_VERSION_STRING "$GahpVersion: " BLAH_PROTOCOL " "      \
                             BLAH_BUILD_TIMESTAMP " "                \
-                            "blahpd\\ v." BLAH_VERSION "\\ (INFN) " \
+                            "blahpd\\ v." BLAH_VERSION "\\ (drebatto) " \
                             "$"
 
 /* For internal usage (eg. log files) */
